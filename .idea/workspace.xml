@@ -19,29 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebf152e-7ec6-4e91-9a67-03dae487b68e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python-Basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_Overload_Override.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiprocessing_using_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_class_and_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_class_in_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_polymorhism_duck_typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_polymorphism_Operator_Overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_variables.py" afterDir="false" />
-    </list>
+    <list default="true" id="2ebf152e-7ec6-4e91-9a67-03dae487b68e" name="Default Changelist" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +34,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -122,6 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662297308488</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1662297736113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662297736113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,10 +123,42 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="656" y="260" key="Github.CreateGistDialog" timestamp="1662297848018">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="656" y="260" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1662297848018" />
+    <state width="872" height="161" key="GridCell.Tab.0.bottom" timestamp="1662297762278">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1662297762278" />
+    <state width="872" height="161" key="GridCell.Tab.0.center" timestamp="1662297762276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1662297762276" />
+    <state width="872" height="161" key="GridCell.Tab.0.left" timestamp="1662297762276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1662297762276" />
+    <state width="872" height="161" key="GridCell.Tab.0.right" timestamp="1662297762276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1662297762276" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1662297556177">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1662297556177" />
+    <state x="425" y="73" key="Vcs.Push.Dialog.v2" timestamp="1662297886228">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1662297886228" />
+    <state x="642" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662297676174">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="642" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1662297676174" />
   </component>
 </project>
