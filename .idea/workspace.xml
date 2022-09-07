@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebf152e-7ec6-4e91-9a67-03dae487b68e" name="Default Changelist" comment="Second Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ebf152e-7ec6-4e91-9a67-03dae487b68e" name="Default Changelist" comment="Second Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662298066460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second Commit">
+      <created>1662318198723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662318198723</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,22 +147,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="656" y="260" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1662297848018" />
-    <state width="872" height="161" key="GridCell.Tab.0.bottom" timestamp="1662297762278">
+    <state width="872" height="161" key="GridCell.Tab.0.bottom" timestamp="1662318216533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="872" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1662297762278" />
-    <state width="872" height="161" key="GridCell.Tab.0.center" timestamp="1662297762276">
+    <state width="872" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1662318216533" />
+    <state width="872" height="161" key="GridCell.Tab.0.center" timestamp="1662318216533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="872" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1662297762276" />
-    <state width="872" height="161" key="GridCell.Tab.0.left" timestamp="1662297762276">
+    <state width="872" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1662318216533" />
+    <state width="872" height="161" key="GridCell.Tab.0.left" timestamp="1662318216532">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="872" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1662297762276" />
-    <state width="872" height="161" key="GridCell.Tab.0.right" timestamp="1662297762276">
+    <state width="872" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1662318216532" />
+    <state width="872" height="161" key="GridCell.Tab.0.right" timestamp="1662318216533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="872" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1662297762276" />
+    <state width="872" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1662318216533" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1662297556177">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
