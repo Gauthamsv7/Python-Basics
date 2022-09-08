@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebf152e-7ec6-4e91-9a67-03dae487b68e" name="Default Changelist" comment="Second Commit">
-      <change afterPath="$PROJECT_DIR$/Reg_ex.py" afterDir="false" />
+    <list default="true" id="2ebf152e-7ec6-4e91-9a67-03dae487b68e" name="Default Changelist" comment="Regular_expression commited">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reg_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reg_ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662568711891</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Regular_expression commited">
+      <created>1662571829014</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662571829014</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,29 +190,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="Regular_expression commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regular_expression commited" />
   </component>
   <component name="WindowStateProjectService">
     <state x="656" y="260" key="Github.CreateGistDialog" timestamp="1662297848018">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="656" y="260" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1662297848018" />
-    <state width="617" height="163" key="GridCell.Tab.0.bottom" timestamp="1662571286109">
+    <state width="617" height="102" key="GridCell.Tab.0.bottom" timestamp="1662653982257">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1662571286109" />
-    <state width="617" height="163" key="GridCell.Tab.0.center" timestamp="1662571286109">
+    <state width="617" height="102" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1662653982257" />
+    <state width="617" height="102" key="GridCell.Tab.0.center" timestamp="1662653982256">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1662571286109" />
-    <state width="617" height="163" key="GridCell.Tab.0.left" timestamp="1662571286109">
+    <state width="617" height="102" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1662653982256" />
+    <state width="617" height="102" key="GridCell.Tab.0.left" timestamp="1662653982256">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1662571286109" />
-    <state width="617" height="163" key="GridCell.Tab.0.right" timestamp="1662571286109">
+    <state width="617" height="102" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1662653982256" />
+    <state width="617" height="102" key="GridCell.Tab.0.right" timestamp="1662653982256">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="617" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1662571286109" />
+    <state width="617" height="102" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1662653982256" />
     <state x="284" y="0" key="SettingsEditor" timestamp="1662297556177">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
