@@ -1,0 +1,5 @@
+Python Notes 
+
+Mutable vs Immutable
+  > Mutable   : Able to edit   [ List,set,dict ]
+  > Immutable : Unable to edit [ str,int,float,bool,bytes,tuple ]
