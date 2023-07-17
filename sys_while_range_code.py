@@ -14,9 +14,9 @@ def num_ran():
             else:
                 print("Please enter a value between 0 and 5")
 
+
 number = "y"
 while(number.lower() == "y"):
     num_ran()
     number = input("Do you wanna try again : ?  [ Please enter Y to continue :  ]")
-#print("Thank you")
 sys.exit("Thank you")
